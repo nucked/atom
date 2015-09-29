@@ -1,5 +1,14 @@
 "*":
+  "exception-reporting":
+    userId: "f3442eda-0099-24a2-09c6-6128b1e0c8fa"
   welcome:
     showOnStartup: false
-  "exception-reporting":
-    userId: "7c0a3c52-795c-5e20-5323-64efcf91f212"
+  editor:
+    fontSize: 15
+    invisibles: {}
+    fontFamily: "Microsoft YaHei"
+  core:
+    themes: [
+      "atom-dark-ui"
+      "one-dark-syntax"
+    ]
